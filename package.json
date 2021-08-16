@@ -1,0 +1,14 @@
+{
+  "name": "arthur-bot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "twitter-lite": "^1.1.0"
+  },
+  "devDependencies": {}
+}
